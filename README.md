@@ -14,7 +14,7 @@ git clone https://github.com/Being-rayhan/python-dev-automation-script-.git
 ```  
 
 ```  
-cd python-dev-automation-script/
+cd python-dev-automation-script-/
 ```  
 * Open the create.py and makeproject.sh. Then make the changes you need.  
 
